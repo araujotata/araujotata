@@ -6,7 +6,7 @@ Meu nome é Thamires de Araujo
 -  Estou me desenvolvendo na linguagem JavaSCript
 -  Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Você entrar em contato comigo 📫
+  ### Você pode entrar em contato comigo 📫
 
   tata.araujolima2006@gmail.com
   
